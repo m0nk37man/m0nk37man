@@ -1,0 +1,3 @@
+- 👋 Hi, I’m rudy
+- 👀 I’m interested in video games
+- 🌱 I’m currently learning web and game design
